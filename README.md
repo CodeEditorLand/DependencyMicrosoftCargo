@@ -9,11 +9,7 @@
 				</picture>
 			</h3>
 		</td>
-		<td colspan="3" valign="top">
-			<h3 align="center">
-				Cargo
-			</h3>
-		</td>
+		<td colspan="3" valign="top"><h3 align="center">Cargo&#x2001;📦</h3></td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="1">
@@ -51,11 +47,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/Document" target="_blank">
-				<b>
-					Document&#x2001;📄&#x2001;Land&#x2001;🏞️
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/Document" target="_blank"><b>Document&#x2001;📄&#x2001;Land&#x2001;🏞️</b></a>
 		</td>
 		<td valign="top" colspan="1">
 			<a href="https://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
@@ -92,11 +84,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
-				<b>
-					Maintain&#x2001;💪🏻&#x2001;Land&#x2001;🏞️
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/Maintain" target="_blank"><b>Maintain&#x2001;💪🏻&#x2001;Land&#x2001;🏞️</b></a>
 		</td>
 	</tr>
 	<tr>
@@ -135,11 +123,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/LLRT" target="_blank">
-				<b>
-					LLRT&#x2001;(Low&#x2001;Latency&#x2001;Runtime)&#x2001;is&#x2001;an&#x2001;experimental,&#x2001;lightweight&#x2001;JavaScript&#x2001;runtime&#x2001;designed&#x2001;to&#x2001;address&#x2001;the&#x2001;growing&#x2001;demand&#x2001;for&#x2001;fast&#x2001;and&#x2001;efficient&#x2001;Serverless&#x2001;applications
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/LLRT" target="_blank"><b>LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications</b></a>
 		</td>
 	</tr>
 </table>
